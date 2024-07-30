@@ -1,4 +1,7 @@
 # (Object-Oriented Programming and Database Technology 05/2022)Train-Ticket-Reservation-System (The Project is in Chinese)
+<div align="center">
+  <img src="./Images/Login.png" alt="Login" width="50%" height="auto">
+</div>
 
 ## System Requirements Analysis
 The main functions of this system are to provide passengers with services for querying, booking, canceling tickets, and prioritizing the choice of upper and lower berths for elderly passengers. 
@@ -20,7 +23,9 @@ The main functions of this system are to provide passengers with services for qu
 * Feedback management: Administrators can delete feedback.
 
 ### Functional Architecture Diagram
-
+<div align="center">
+  <img src="./Images/Architecture Diagram.png" alt=" Architecture Diagram" width="50%" height="auto">
+</div>
 
 ## Database Analysis
 Ten tables:
